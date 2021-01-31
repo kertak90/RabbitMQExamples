@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/oleg/Projects/RabbitMQExamples/1Producer1Consumer/Sender/Sender.csproj": {}
+  },
+  "projects": {
+    "/home/oleg/Projects/RabbitMQExamples/1Producer1Consumer/Sender/Sender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oleg/Projects/RabbitMQExamples/1Producer1Consumer/Sender/Sender.csproj",
+        "projectName": "Sender",
+        "projectPath": "/home/oleg/Projects/RabbitMQExamples/1Producer1Consumer/Sender/Sender.csproj",
+        "packagesPath": "/home/oleg/.nuget/packages/",
+        "outputPath": "/home/oleg/Projects/RabbitMQExamples/1Producer1Consumer/Sender/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/oleg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj": {
+                "projectPath": "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj",
+        "projectName": "Library",
+        "projectPath": "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj",
+        "packagesPath": "/home/oleg/.nuget/packages/",
+        "outputPath": "/home/oleg/Projects/RabbitMQExamples/Library/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/oleg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOUa/4YXL7BSDTsMiAVSauEDU9i+h6H2iaGoBU951SbxRXDsiMBl3Bk+VLDmbkhpD6K/UPhfw/5GVmCQ3h8C2A==",
+  "success": true,
+  "projectFilePath": "/home/oleg/Projects/RabbitMQExamples/Library/Library.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

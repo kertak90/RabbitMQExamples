@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcvjO7L9n8W5YXPt41gPDXUZ0lZlGcMqrKKsW944ayCQYZWBR1FXtpuxuXhmMF3772RdMr4Rn7Xk93KflVAl+g==",
+  "success": true,
+  "projectFilePath": "/home/oleg/Projects/RabbitMQExamples/OneProviderSeveralQueuesPublishSubscribe/Sender/Sender.csproj",
+  "expectedPackageFiles": [
+    "/home/oleg/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/oleg/.nuget/packages/swashbuckle.aspnetcore.annotations/5.6.3/swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/oleg/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/oleg/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
