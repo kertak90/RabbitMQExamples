@@ -1,0 +1,12 @@
+**/bin/*
+**/obj/*
+#OneProviderSeveralQueuesRouting/Reciever/obj/*
+#OneProviderSeveralQueuesRouting/Reciever/bin/*
+#OneProviderSeveralQueuesTopicExchange
+#OneProviderSeveralQueuesTopicExchange
+#OneProviderSeveralQueuesPublishSubscribe
+#OneProviderSeveralQueuesPublishSubscribe
+#1ProduserSeveralConsumers
+#1ProduserSeveralConsumers
+#1Producer1Consumer
+#1Producer1Consumer
